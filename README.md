@@ -1,2 +1,2 @@
 # python-clase-06
-# Repositorio con los avances del proyecto final de python
+# Repositorio con la clase del proyecto de la base de datos de Facturacion
